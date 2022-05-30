@@ -71,7 +71,9 @@
 
    这个是全协议的但可惜是降压的[SW3518S_电路设计方案,电路图,原理图,技术资料 - 电路城 (cirmall.com)](https://www.cirmall.com/tags/SW3518S/)。
 
+   升降压芯片 [SC8701高效率同步,4管升降压控制器.PDF-原创力文档 (book118.com)](https://max.book118.com/html/2017/0710/121671813.shtm)。
 
+7. 再加一个 usb hub？就用 base board 上的芯片。
 
 1. 原理图再参考参考 之前做过的电源电路，PCB大电流线路开窗加锡，PCB最后按照 硬件规范过一遍。
 2. BOM 要廉价，PCB 要小巧。
@@ -80,3 +82,4 @@
 
 - [yanranxiaoxi/Portable-Desktop-Uninterruptible-Power-Supply: 便携桌面不间断电源 (github.com)](https://github.com/yanranxiaoxi/Portable-Desktop-Uninterruptible-Power-Supply)。
 - [【ART-Pi】5V不间断电源扩展 - 立创EDA开源硬件平台 (oshwhub.com)](https://oshwhub.com/asxs/kuo-zhan-bandemo)，这个可以看看，是2S的。
+- [[四路166W智能充电器\] - 硬创社 (jlc.com)](https://x.jlc.com/platform/detail/129c3bd5115a48d38dc514fa16b882e1)。[【开源】如何自制一个全能桌面充电站？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1X94y1U7av)。
